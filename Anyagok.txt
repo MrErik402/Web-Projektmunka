@@ -1,0 +1,5 @@
+# Faanyagok
+# Bükk, Cseresznye, Dió, Mahagóni, Tölgy, Fenyő, Juhar
+#
+# Színek
+# Fehér, Bézs, Citromsárga, Vanília, Narancssárga, Világoszöld, Olajzöld, Világoskék, Acélkék, Lazac, Barna, Sötétszürke
