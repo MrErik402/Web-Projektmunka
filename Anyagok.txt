@@ -1,5 +1,8 @@
 # Faanyagok
-# Bükk, Cseresznye, Dió, Mahagóni, Tölgy, Fenyő, Juhar
+# Bükk, Cseresznye, Dió, Mahagóni, Tölgy, Fenyő, Juhar, Akác, Nyír, Nyár, Kőris, Platán
 #
 # Színek
 # Fehér, Bézs, Citromsárga, Vanília, Narancssárga, Világoszöld, Olajzöld, Világoskék, Acélkék, Lazac, Barna, Sötétszürke
+#
+# Szerszámkatalógus
+# Kalapács, Csavarkulcs, Csavarhúzó, Furó, Fűrész, Szög&Csavar készlet, Balta, Fejsze
