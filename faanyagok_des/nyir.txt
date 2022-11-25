@@ -1,0 +1,14 @@
+Rönkhossz	10…15 m
+Rönkátmérõ	0,5…1,0 m
+Sûrûség	0,61 g/cm3
+Zsugorodás
+	Sugárirányban	5,3 %
+	Húrirányban	7,8 %
+Keménység
+	Rostra merõleges	25,0 MPa
+	Rosttal párhuzamos	49,0 MPa
+Merevség	15 500 MPa
+Szilárdság
+	Nyomó	51 MPa
+	Hajlító	147 MPa
+	Nyíró	13,2 MPa
