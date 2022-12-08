@@ -1,0 +1,45 @@
+# Menük után egy külön oldalra vezetnek, ahol Boosttrap kártyákkal lesz a hivatkozás betéve (Ahol kép és szöveg is található).
+
+# Kártyák:
+
+# Faanyagok HTML:
+
+<div class="card" style="width: 18rem;">
+  <img src="..." class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">Fa név</h5>
+    <p class="card-text">Fa rövid leírás</p>
+    <a href="#" class="btn btn-primary">Menj az oldalra</a>
+  </div>
+</div>
+
+
+# Festék HTML:
+
+<div class="card" style="width: 18rem;">
+  <img src="..." class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">Festék név</h5>
+    <p class="card-text">Érdekesség</p>
+  </div>
+  <ul class="list-group list-group-flush">
+    <li class="list-group-item">Gyártó</li>
+    <li class="list-group-item">Felhasználás</li>
+    <li class="list-group-item">Mennyiség</li>
+    <li class="list-group-item">Egységár</li>
+  </ul>
+  <div class="card-body">
+    <a href="#" class="card-link">Szín megtekintése</a>
+  </div>
+</div>
+
+# Szerszám katalógus:
+
+<div class="card" style="width: 18rem;">
+  <img src="..." class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">Szerszám megnevezése</h5>
+    <p class="card-text">Rövid leírás</p>
+    <a href="#" class="btn btn-primary">Menj az oldalra</a>
+  </div>
+</div>

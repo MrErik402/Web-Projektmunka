@@ -1,2 +1,0 @@
-# A menühöz egy Boostrap "Offcanvas dark navbar"-t fogunk használni, melynek az elején egy kép és egy szlogen lesz elhelyezve. A szlogen a kinyitott menün is megjelenik.
-# A menübe lévő menüpontok, a "Főoldal", "Rólunk", "Blog", "Munkaanyagok" (ezen belül) "Faanyagok", "Munkaeszközök", "Festékanyagok".
