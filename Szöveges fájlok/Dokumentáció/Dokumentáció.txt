@@ -7,3 +7,4 @@ Mai napon (2023.01.11.) Folytattam a látványterveket Zalánnal. - Szövegek be
 -------------------Zalán-----------------------------------
 
 Mai napon (2023.01.13) beillesztettem a weboldal rólunk részéhez szükséges képeket.
+Github repository klónózása (2023.01.19)
