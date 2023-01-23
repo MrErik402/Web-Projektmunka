@@ -32,3 +32,17 @@ table{
     width: 18rem;
     height: 18rem;
 }
+.adat{
+    border: 4px rgb(48, 48, 48);
+    border-collapse: collapse;
+    
+}
+
+table{
+    align-items: center;
+}
+
+.adat{
+    border: 4px rgb(85, 85, 85);
+    border-collapse: collapse;
+}
