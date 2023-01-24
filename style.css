@@ -1,6 +1,9 @@
 body{
     background-color: rgb(125,79,46);
+    font-family: 'Sofia Sans Extra Condensed', sans-serif;
+    
 }
+
 #Faanyagok{
     display: inline-flex;
 }
