@@ -50,11 +50,11 @@ table{
 
 .adat{
     text-align: end;
-    background-color: rgb(163, 143, 106);
+    background-color: rgba(163, 143, 106, 0.692);
 }
 .adatnév{
     text-align: start;
-    background-color: rgb(218, 187, 131);
+    background-color: rgba(218, 188, 131, 0.692);
 }
 
 #fakepek{
