@@ -39,10 +39,22 @@ table{
 }
 
 table{
-    align-items: center;
+    margin-left: 40%;
+}
+
+.adat, .adatnév{
+    border: 1px solid rgb(29, 29, 29);
+    border-collapse: collapse;
+    
 }
 
 .adat{
-    border: 4px rgb(85, 85, 85);
-    border-collapse: collapse;
+    text-align: end;
+}
+.adatnév{
+    text-align: start;
+}
+
+#fakepek{
+    padding-left: 70%;
 }
