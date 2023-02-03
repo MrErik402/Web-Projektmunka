@@ -1,0 +1,20 @@
+Szíjácsa és gesztje egyformán fehér színû, a levegõn idõvel sárgás árnyalatot kap. A keresztmetszeten az évgyûrûhatárok erõsen hullámosak, látszódnak, a hosszmetszeten alig kivehetõek. Szórt likacsú; edényei aprók, csak nagyítón keresztül láthatók.
+
+Nehezen forgácsolható, gyalu alatt szálkásodik. Nehezen hajlítható
+
+Nehezen szegezhetõ, csavarozható. Minden ragasztási technológiával jól ragasztható.
+
+Rönkhossz	6…10 m
+Rönkátmérõ	0,6…1,0 m
+Sûrûség	0,79 g/cm3
+Zsugorodás
+	Sugárirányban	6,8 %
+	Húrirányban	11,5 %
+Keménység
+	Rostra merõleges	36,0 MPa
+	Rosttal párhuzamos	71,0 MPa
+Merevség	16 200 MPa
+Szilárdság
+	Nyomó	82 MPa
+	Hajlító	160 MPa
+	Nyíró	12,2 MPa
