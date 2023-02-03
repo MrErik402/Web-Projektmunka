@@ -68,22 +68,18 @@ table{
 }
 
 .nyitvat{
-    margin-top: 100px;
-    margin-left: 210px;
+    margin-top: 15%;
+    margin-left: 25%;
 }
 
 .napok, .idopont{
     border-color: black;
     border-width: 2px;
     text-align: center;
-
-
 }
-
 .napok{
     background-color: rgba(218, 188, 131, 0.692);
 }
-
 .idopont{
     background-color: rgba(163, 143, 106, 0.692);
 }
